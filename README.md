@@ -1,4 +1,8 @@
-# isi_release_quarantined_files
+# dell-emc-isilon-related-scripts
+
+Currently contains just one tool/script.
+
+# isi_release_quarantined_files.py
 Releases _ALL_ quarantined files in Isilon. 
 
 Basic script, no error checks, results get printed out on terminal. 
